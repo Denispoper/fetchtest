@@ -1,0 +1,22 @@
+{
+    "users" : [
+        {
+            "name": "Ivan",
+            "surname": "Ivanov",
+            "age": 16,
+            "active": true
+        }, 
+        {
+            "name": "Petr",
+            "surname": "Petrov",
+            "age": 54,
+            "active": true
+        }, 
+        {
+            "name": "Oleg",
+            "surname": "Suka",
+            "age": 24,
+            "active": false
+        }
+    ]
+}
