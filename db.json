@@ -1,8 +1,6 @@
 {
     "id" : 0,
     "site" : "www.vk.com",
-    "host" : "172.0.0.1",
-    "port" : "8080",
     "users" : [
         {
             "name": "Ivan",
